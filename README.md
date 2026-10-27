@@ -1,8 +1,8 @@
 # Hi, I'm Ivan 👋
-### Technical Artist — Shaders · Real-time VFX · Tools
+### Technical Artist — Shaders · Rendering · Editor Tools
 
-I build technical solutions for artistic problems. Currently at an animation studio, where I develop tools that smooth out the pipeline.
+I specialize in shader development, optimization and Unity Editor and DCC tools. Currently at a 2D animation studio helping artists focus on making art by covering the technical aspects of their work.
 
-**Tools:** Unity (URP), HLSL / Shader Graph, C#, Python, Blender
+**Tools:** Unity (URP) · HLSL / Shader Graph · C# · Python · Blender · Photoshop UXP
 
-📫 caridadivan.3d@gmail.com   -   🎨 [Portfolio](https://cariti.github.io)   -   💼 [LinkedIn](https://www.linkedin.com/in/ivan-caridad/)
+📍 Barcelona · 🎨 [Portfolio](https://cariti.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ivan-caridad/)
