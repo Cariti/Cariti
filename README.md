@@ -5,4 +5,4 @@ I build technical solutions for artistic problems. Currently at an animation stu
 
 **Tools:** Unity (URP), HLSL / Shader Graph, C#, Python, Blender
 
-📫 caridadivan.3d@gmail.com   -   🎨 [Portfolio](https://www.cariti.github.io)   -   💼 [LinkedIn](https://www.linkedin.com/in/ivan-caridad/)
+📫 caridadivan.3d@gmail.com   -   🎨 [Portfolio](https://cariti.github.io)   -   💼 [LinkedIn](https://www.linkedin.com/in/ivan-caridad/)
