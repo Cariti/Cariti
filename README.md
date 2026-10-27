@@ -7,16 +7,12 @@ I specialize in shader development, optimization and Unity Editor and DCC tools.
 
 📍 Barcelona · 🎨 [Portfolio](https://cariti.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ivan-caridad/)
 
-## 🔧 Currently building...
+## 🎨 Gallery
 
 <table>
   <tr>
-    <th colspan="2">Project gallery</th>
-  </tr>
-  <tr>
     <td>Image 1</td>
     <td>Image 2</td>
-  </tr>
   </tr>
   <tr>
     <td>Image 3</td>
