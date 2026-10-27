@@ -6,3 +6,5 @@ I specialize in shader development, optimization and Unity Editor and DCC tools.
 **Tools:** Unity (URP) · HLSL / Shader Graph · C# · Python · Blender · Photoshop UXP
 
 📍 Barcelona · 🎨 [Portfolio](https://cariti.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ivan-caridad/)
+
+## 🔧 Currently building...
